@@ -1,0 +1,11 @@
+.ipl-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-not-found {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  color: #ffffff;
+}

@@ -1,0 +1,31 @@
+.each-list-item {
+  display: flex;
+  background-color: #ffffff33;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 100px;
+  border: 1px solid #475569;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.image-container {
+  width: 30%;
+}
+.team-name-container {
+  width: 70%;
+}
+
+.team-logo {
+  height: 45px;
+  width: 40px;
+}
+
+.team-name {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #ffffff;
+}

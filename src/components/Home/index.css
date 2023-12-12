@@ -1,0 +1,36 @@
+.ipl-dashboard {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+.ipl-container {
+  display: flex;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  flex-direction: column;
+  background-size: cover;
+  width: 50%;
+  height: 100vh;
+  border: 1px solid green;
+  align-items: center;
+  justify-content: center;
+}
+
+.man-logo {
+  height: 40px;
+  width: 25px;
+}
+
+.image-dashboard {
+  display: flex;
+  align-items: center;
+}
+
+.unordered-list {
+  list-style-type: none;
+
+  width: 85%;
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,58 @@
+.latest-match-container {
+  background-color: #0f172a;
+  border-radius: 10px;
+}
+
+.opposition-name {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.latest-match-date {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.latest-match-venue-result {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.latest-opposition-team-icon {
+  height: 90px;
+  width: 110px;
+}
+
+.team-information {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Innings {
+  padding: 20px;
+}
+
+.first-second-man-umpire-innings {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.innings-team {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 200;
+}
